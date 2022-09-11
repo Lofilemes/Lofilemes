@@ -3,12 +3,12 @@
 </div>
 <p align="center"> Sou graduada em Computação e apaixonada por tecnologia!</p>
 
-
 <div align="center">
   <a href="https://github.com/Lofilemes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lofilemes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofilemes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+</a>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
@@ -18,7 +18,9 @@
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  
-  
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div align="center">
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> 👩‍💻</p>
 </div>
